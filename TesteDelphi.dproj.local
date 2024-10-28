@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/24 17:28:06.000.005,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/24 17:28:28.000.318,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\teste-delphi\frm_main.dfm</Transaction>
+    <Transaction>2024/10/24 17:28:28.000.318,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\teste-delphi\frm_main.pas</Transaction>
+    <Transaction>2024/10/24 17:37:30.000.903,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\teste-delphi\TesteDelphi.dproj</Transaction>
+    <Transaction>2024/10/24 17:41:04.000.206,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/24 17:41:19.000.340,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Model\Clientes.pas</Transaction>
+    <Transaction>2024/10/24 17:48:14.000.193,D:\teste-delphi\Domain\Model\Clientes.pas=D:\teste-delphi\Domain\Model\Cliente.pas</Transaction>
+    <Transaction>2024/10/24 17:48:30.000.755,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/24 17:48:52.000.129,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Model\Produto.pas</Transaction>
+    <Transaction>2024/10/24 17:49:14.000.261,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/24 17:49:35.000.139,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Model\Pedido.pas</Transaction>
+    <Transaction>2024/10/24 17:49:57.000.269,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/24 17:50:16.000.723,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Model\PedidoProduto.pas</Transaction>
+    <Transaction>2024/10/24 17:53:21.000.856,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/24 17:58:31.000.149,D:\teste-delphi\Unit1.dfm=D:\teste-delphi\Domain\Controller\DataModule.dfm</Transaction>
+    <Transaction>2024/10/24 17:58:31.000.149,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Controller\DataModule.pas</Transaction>
+    <Transaction>2024/10/25 17:22:26.000.932,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 17:23:00.000.126,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Controller\ClienteController.pas</Transaction>
+    <Transaction>2024/10/25 17:51:44.000.794,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 17:56:17.000.339,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Model\ProdutoController.pas</Transaction>
+    <Transaction>2024/10/25 17:58:47.000.349,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 17:59:07.000.957,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Model\PedidoController.pas</Transaction>
+    <Transaction>2024/10/25 18:01:18.000.990,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 18:02:06.000.547,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\Model\PedidoProdutoController.pas</Transaction>
+    <Transaction>2024/10/25 18:09:23.000.456,D:\teste-delphi\frm_main.pas=</Transaction>
+    <Transaction>2024/10/25 18:16:50.000.426,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/25 18:17:42.000.613,D:\teste-delphi\Unit1.pas=D:\teste-delphi\Domain\View\ViewPedidos.pas</Transaction>
+    <Transaction>2024/10/25 18:17:42.000.613,D:\teste-delphi\Unit1.dfm=D:\teste-delphi\Domain\View\ViewPedidos.dfm</Transaction>
+    <Transaction>2024/10/25 18:18:20.000.424,=D:\teste-delphi\Unit2.pas</Transaction>
+    <Transaction>2024/10/25 18:18:39.000.549,D:\teste-delphi\Unit2.dfm=D:\teste-delphi\Domain\View\ViewProdutos.dfm</Transaction>
+    <Transaction>2024/10/25 18:18:39.000.549,D:\teste-delphi\Unit2.pas=D:\teste-delphi\Domain\View\ViewProdutos.pas</Transaction>
+    <Transaction>2024/10/25 18:21:11.000.974,=D:\teste-delphi\Unit2.pas</Transaction>
+    <Transaction>2024/10/25 18:21:41.000.520,D:\teste-delphi\Unit2.dfm=D:\teste-delphi\Domain\View\ViewMainPedido.dfm</Transaction>
+    <Transaction>2024/10/25 18:21:41.000.520,D:\teste-delphi\Unit2.pas=D:\teste-delphi\Domain\View\ViewMainPedido.pas</Transaction>
+    <Transaction>2024/10/27 09:01:40.000.595,=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/27 09:02:00.000.844,D:\teste-delphi\Domain\Common\Common.pas=D:\teste-delphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/27 09:18:13.000.241,D:\teste-delphi\Domain\Model\PedidoController.pas=</Transaction>
+    <Transaction>2024/10/27 09:19:00.000.535,=D:\teste-delphi\Domain\Controller\PedidoController.pas</Transaction>
+    <Transaction>2024/10/27 09:19:28.000.311,=D:\teste-delphi\Domain\Controller\ProdutoController.pas</Transaction>
+    <Transaction>2024/10/27 09:19:28.000.251,=D:\teste-delphi\Domain\Controller\PedidoProdutoController.pas</Transaction>
+    <Transaction>2024/10/27 10:03:42.000.740,D:\teste-delphi\Domain\View\ViewProdutos.pas=</Transaction>
+    <Transaction>2024/10/27 10:04:36.000.666,=D:\teste-delphi\Unit2.pas</Transaction>
+    <Transaction>2024/10/27 10:05:25.000.560,D:\teste-delphi\Domain\View\ViewGenericGrid.dfm=D:\teste-delphi\Unit2.dfm</Transaction>
+    <Transaction>2024/10/27 10:05:25.000.560,D:\teste-delphi\Domain\View\ViewGenericGrid.pas=D:\teste-delphi\Unit2.pas</Transaction>
+    <Transaction>2024/10/27 11:43:36.000.831,D:\teste-delphi\Domain\Controller\DataModule.pas=</Transaction>
+    <Transaction>2024/10/27 11:44:06.000.823,=D:\teste-delphi\Domain\Controller\DataModule.pas</Transaction>
+    <Transaction>2024/10/27 17:47:59.000.226,D:\teste-delphi\Domain\View\ViewPedidos.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Domain"/>
+    <File Path="Domain\Common"/>
+    <File Path="Domain\Common\Common.pas"/>
+    <File Path="Domain\Controller"/>
+    <File Path="Domain\Controller\ClienteController.pas"/>
+    <File Path="Domain\Controller\PedidoController.pas"/>
+    <File Path="Domain\Controller\PedidoProdutoController.pas"/>
+    <File Path="Domain\Controller\ProdutoController.pas"/>
+    <File Path="Domain\Controller\DataModule.pas"/>
+    <File Path="Domain\Controller\DataModule.dfm"/>
+    <File Path="Domain\Model"/>
+    <File Path="Domain\Model\Cliente.pas"/>
+    <File Path="Domain\Model\Pedido.pas"/>
+    <File Path="Domain\Model\PedidoProduto.pas"/>
+    <File Path="Domain\Model\Produto.pas"/>
+    <File Path="Domain\View"/>
+    <File Path="Domain\View\ViewGenericGrid.pas"/>
+    <File Path="Domain\View\ViewGenericGrid.dfm"/>
+    <File Path="Domain\View\ViewMainPedido.pas"/>
+    <File Path="Domain\View\ViewMainPedido.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
